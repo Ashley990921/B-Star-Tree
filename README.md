@@ -12,5 +12,5 @@ Generate executable binary fp in /bin
 Generate output file
 ### Checker Usage
 ```linux
-./checker [input block] [input net] [output] [alpha]
+./checker [input.block name] [input.nets name] [output file name] [alpha value]
 ```
