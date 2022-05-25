@@ -10,3 +10,7 @@ Generate executable binary fp in /bin
 ./bin/fp [alpha value] [input.block name] [input.nets name] [output file name]
 ```
 Generate output file
+### Checker Usage
+```linux
+./checker [input block] [input net] [output] [alpha]
+```
