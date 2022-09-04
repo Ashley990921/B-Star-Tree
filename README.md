@@ -1,5 +1,5 @@
 # B-Star-Tree
-#### 2022 PD Programming Asignment : Fixed-outline Floorplanning
+#### 2022 NTU PD Programming Asignment : Fixed-outline Floorplanning
 ### How to Compile
 ```linux
 make
